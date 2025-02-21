@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AudioCodecTest": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
